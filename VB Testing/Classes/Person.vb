@@ -2,7 +2,7 @@
 
     Public Sub New()
 
-        Name = "N/A"
+        Name = ""
 
     End Sub
 
